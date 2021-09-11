@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @HanHua0402
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 我们登上并非我们所选择的舞台
+- 👀 演绎并非我们选择的剧本
+- 🌱 人生最大的悲剧就是
+- 💞️ 你配不上自己的野心
+- 📫 还辜负了所受的苦难
 
 <!---
 HanHua0402/HanHua0402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
